@@ -1,0 +1,10 @@
+https://acapcentralvisayas.github.io/
+https://acapcentralvisayas.github.io/weather-services/
+https://acapcentralvisayas.github.io/cropping-calendar-v2/
+https://acapcentralvisayas.github.io/agroclimatic-services/
+https://acapcentralvisayas.github.io/bulletins/
+https://acapcentralvisayas.github.io/bulletins/weather/
+https://acapcentralvisayas.github.io/bulletins/seasonal-outlook/
+https://acapcentralvisayas.github.io/bulletins/special-weather-forecast/
+https://acapcentralvisayas.github.io/admin/login/
+https://acapcentralvisayas.github.io/superadmin/login/
